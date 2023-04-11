@@ -135,3 +135,6 @@ https://github.com/clearlinux-pkgs/linux/blob/master/0111-ipv4-tcp-allow-the-mem
 https://github.com/clearlinux-pkgs/linux/blob/master/0122-locking-rwsem-spin-faster.patch
 
 https://github.com/clearlinux-pkgs/linux/blob/master/0109-initialize-ata-before-graphics.patch
+
+# gaming
+https://docs.mastercomfig.com/page/os/linux/
