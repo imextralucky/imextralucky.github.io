@@ -33,6 +33,12 @@ Cons:
 ### Others:
 https://www.debian.org/ - Stable or SID (testing)
 
+https://www.devuan.org/ - Debian without systemd
+
+https://www.gentoo.org/ - compile-it-yourself distro
+
+https://artixlinux.org/ - Arch without systemd
+
 https://linuxmint.com/ - based on Ubuntu but better, apparently very easy for windows users.
 
 http://puppylinux.com/ - for very old laptops or computers.
