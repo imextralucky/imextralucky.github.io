@@ -41,6 +41,8 @@ https://artixlinux.org/ - Arch without systemd
 
 https://linuxmint.com/ - based on Ubuntu but better, apparently very easy for windows users.
 
+https://instantos.io/ - lightweight Arch distro
+
 http://puppylinux.com/ - for very old laptops or computers.
 
 Avoid: 
